@@ -55,8 +55,8 @@ describe('System Console - Enterprise', () => {
             url: 'admin_console/authentication/openid',
         },
         {
-            header: 'Guest Access (Beta)',
-            sidebar: 'Guest Access (Beta)',
+            header: 'Guest Access',
+            sidebar: 'Guest Access',
             url: 'admin_console/authentication/guest_access',
         },
         {
@@ -65,8 +65,8 @@ describe('System Console - Enterprise', () => {
             url: 'admin_console/compliance/data_retention',
         },
         {
-            header: 'Compliance Export (Beta)',
-            sidebar: 'Compliance Export (Beta)',
+            header: 'Compliance Export',
+            sidebar: 'Compliance Export',
             url: 'admin_console/compliance/export',
         },
         {
@@ -75,8 +75,8 @@ describe('System Console - Enterprise', () => {
             url: 'admin_console/compliance/monitoring',
         },
         {
-            header: 'Custom Terms of Service (Beta)',
-            sidebar: 'Custom Terms of Service (Beta)',
+            header: 'Custom Terms of Service',
+            sidebar: 'Custom Terms of Service',
             url: 'admin_console/compliance/custom_terms_of_service',
         },
     ];
